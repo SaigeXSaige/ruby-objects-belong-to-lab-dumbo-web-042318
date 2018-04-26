@@ -1,4 +1,4 @@
-class Posts 
+class Posts
   attr_accessor :title 
   
   def initialize
